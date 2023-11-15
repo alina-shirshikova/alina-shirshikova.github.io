@@ -9,7 +9,7 @@ author_profile: true
 ### [The women-empowering effect of higher education](http://alina-shirshikova.github.io/files/paper1_education.pdf) <span style="font-weight:normal">in *Journal of Development Economics* (with A. Elsayed)</span>
 
 <details>
-<summary> *Abstract* </summary>
+<summary>Abstract</summary>
 We examine the effects of the large-scale construction of public universities in Egypt during the 1960s and 1970s. We found that opening a local university increased the likelihood of obtaining higher education degrees and had long-lasting positive effects on the labour market and marriage outcomes, particularly for women. We give insights on internal migration as a channel and show that migration prior to the university enrollment age decreased while migration after that age increased as an outcome of university construction. Local universities reduced men’s migration for study and women’s migration for early marriage. The paper highlights the importance of increasing access to higher education for positive social and labour outcomes, especially for women.
 </details>
   
@@ -17,10 +17,10 @@ We examine the effects of the large-scale construction of public universities in
 
 ## Working papers
 
-### Can skills alleviate ethnic discrimination in hiring? Evidence from the German apprenticeship market <span style="font-weight:normal">*Submitted* (with F. Corvers, R. Montizaan, H. Pfeifer and C. Wehner) [[Download paper]](http://alina-shirshikova.github.io/files/paper1_education.pdf)</span>
+### [Can skills alleviate ethnic discrimination in hiring? Evidence from the German apprenticeship market](http://alina-shirshikova.github.io/files/paper1_education.pdf) <span style="font-weight:normal">*Submitted* (with F. Corvers, R. Montizaan, H. Pfeifer and C. Wehner)</span>
 
 <details>
-<summary> *Abstract* </summary>
+<summary>Abstract</summary>
 One of the major strategies to tackle the issue of labour shortages across European countries is to promote labour mobility and attract individuals from both within and outside of Europe. However, ethnic discrimination can serve as a substantial barrier, rendering attempts to attract people from abroad less efficient. In this study, we investigate whether the social, digital, and analytical skills of job applicants, as well as their knowledge about the profession, can mitigate ethnic disparities in entry-level positions in the labour market. We conducted a survey experiment among a large, nationally representative sample of German firms that hire apprentices. We asked recruiters to evaluate the probability of inviting fictitious applicants to a job interview based on randomised characteristics, including ethnicity, skill quality, gender, time of residence, and education level. Our results show heterogeneous effects of skills on ethnic discrimination. While social skills help alleviate discrimination, our results also indicate that discrimination intensifies at higher levels of knowledge about the profession, implying greater disparities due to ethnic discrimination at the top of the skill distribution. We also show that the effect of skills differs depending on the ethnicity of the applicant.
 </details>
 
