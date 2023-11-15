@@ -25,15 +25,15 @@ in *Journal of Development Economics* (with A. Elsayed),
 
 ## Work in progress
 
-### Invite from abroad or train yourself? Access to foreign labour and employment and training behaviour of domestic firms 
-(draft coming soon)
+### Invite from abroad or train yourself? Access to foreign labour and employment and training behaviour of domestic firms  <span style="font-weight:normal">(draft coming soon)</span>  
+
 
 ### Birthright citizenship, study choice and occupational clustering of immigrant children
 
 ### STEM vs non-STEM degree: Field of study and women's labour market outcomes
 
-### Who hires risk-taking employees? The role of worker and employer characteristics in post-probation retention decisions <span style="font-weight:normal">(with H. Pfeifer and D. Becker)</span>   
-(with H. Pfeifer and D. Becker)
+### Who hires risk-taking employees? The role of worker and employer characteristics in post-probation retention decisions  <span style="font-weight:normal">(with H. Pfeifer and D. Becker)</span>   
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
