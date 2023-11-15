@@ -2,6 +2,8 @@
 title: "Invite from abroad or train yourself? Access to foreign labour and employment and training behaviour of domestic firms"
 collection: wprogress
 
+---
+
 title: "Birthright citizenship, study choice and occupational clustering of immigrant children"
 collection: wprogress
 
@@ -13,6 +15,3 @@ collection: wprogress
 
 title: "The effect of high skilled immigration: Evidence from the Russo-Ukrainian war shock"
 collection: wprogress
-
----
-
