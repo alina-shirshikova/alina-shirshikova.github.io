@@ -10,7 +10,9 @@ author_profile: true
 in *Journal of Development Economics* (with A. Elsayed),
 [Download paper here](http://alina-shirshikova.github.io/files/paper1_education.pdf)
 
-*Abstract:* We examine the effects of the large-scale construction of public universities in Egypt during the 1960s and 1970s. We found that opening a local university increased the likelihood of obtaining higher education degrees and had long-lasting positive effects on the labour market and marriage outcomes, particularly for women. We give insights on internal migration as a channel and show that migration prior to the university enrollment age decreased while migration after that age increased as an outcome of university construction. Local universities reduced men’s migration for study and women’s migration for early marriage. The paper highlights the importance of increasing access to higher education for positive social and labour outcomes, especially for women.
+<details><summary>*Abstract:*</summary
+We examine the effects of the large-scale construction of public universities in Egypt during the 1960s and 1970s. We found that opening a local university increased the likelihood of obtaining higher education degrees and had long-lasting positive effects on the labour market and marriage outcomes, particularly for women. We give insights on internal migration as a channel and show that migration prior to the university enrollment age decreased while migration after that age increased as an outcome of university construction. Local universities reduced men’s migration for study and women’s migration for early marriage. The paper highlights the importance of increasing access to higher education for positive social and labour outcomes, especially for women.
+</details> 
 
 *Recommended citation:* Elsayed, Ahmed and Alina Shirshikova. (2023). “The women-empowering effect of higher education” Journal of Development Economics. Volume 163, 2023, 103101, ISSN 0304-3878, DOI: 10.1016/j.jdeveco.2023.103101
 
