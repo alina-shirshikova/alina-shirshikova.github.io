@@ -32,7 +32,7 @@ in *Journal of Development Economics* (with A. Elsayed),
 
 ### STEM vs non-STEM degree: Field of study and women's labour market outcomes
 
-### Who hires risk-taking employees? The role of worker and employer characteristics in post-probation retention decisions   
+### Who hires risk-taking employees? The role of worker and employer characteristics in post-probation retention decisions <span style="font-weight:normal">(with H. Pfeifer and D. Becker)</span>   
 (with H. Pfeifer and D. Becker)
 
 {% if author.googlescholar %}
