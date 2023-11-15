@@ -6,8 +6,7 @@ author_profile: true
 ---
 ## Publications
 
-### The women-empowering effect of higher education <span style="font-weight:normal">in *Journal of Development Economics* (with A. Elsayed)</span>
-[Download paper here](http://alina-shirshikova.github.io/files/paper1_education.pdf)
+### The women-empowering effect of higher education <span style="font-weight:normal">in *Journal of Development Economics* (with A. Elsayed) [[Download paper]](http://alina-shirshikova.github.io/files/paper1_education.pdf)</span>
 
 <details>
 <summary> *Abstract* </summary>
@@ -18,8 +17,7 @@ We examine the effects of the large-scale construction of public universities in
 
 ## Working papers
 
-### Can skills alleviate ethnic discrimination in hiring? Evidence from the German apprenticeship market <span style="font-weight:normal">*Submitted* (with F. Corvers, R. Montizaan, H. Pfeifer and C. Wehner)</span>
-[Download paper here](http://alina-shirshikova.github.io/files/paper2_skills.pdf)
+### Can skills alleviate ethnic discrimination in hiring? Evidence from the German apprenticeship market <span style="font-weight:normal">*Submitted* (with F. Corvers, R. Montizaan, H. Pfeifer and C. Wehner) [[Download paper]](http://alina-shirshikova.github.io/files/paper1_education.pdf)</span>
 
 <details>
 <summary> *Abstract* </summary>
