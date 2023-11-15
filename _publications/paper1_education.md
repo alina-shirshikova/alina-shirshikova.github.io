@@ -11,5 +11,3 @@ citation: 'Elsayed, Ahmed and Alina Shirshikova. (2023). "The women-empowering e
 
 [Download paper here](http://alina-shirshikova.github.io/files/paper1_education.pdf)
 
-Recommended citation: Elsayed, Ahmed and Alina Shirshikova. (2023). "The women-empowering effect of higher education" <i>Journal of Development Economics</i>. Volume 163,
-2023, 103101, ISSN 0304-3878, https://doi.org/10.1016/j.jdeveco.2023.103101.
