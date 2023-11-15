@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in economics at Maastricht University.
+I am a PhD candidate in economics at Maastricht University and an ESR at the Research Centre for Education and the Labour Market (ROA). 
 
-My [research]() focuses on ...
+My long-standing interest lies in the intersection of labour, migration and education economics. 
+In my [research](/publications/), I focus on the impact of 
+borders, geographical mobility, migration and immigration policies on labour markets and
+educational opportunities of individuals. 
 
-You can contact me at a.shirshikova@maastrichtuniversity.nl and find my [CV]() here.
+You can contact me at a.shirshikova@maastrichtuniversity.nl and find my [CV](http://alina-shirshikova.github.io/files/Academic_CV.pdf) here.
 
-#My research focuses on the interaction between globalization and redistribution, by studying how trade and migration flows respond to international differences in personal taxes and labor market regulations, and by estimating how those flows shape inequalities within and across countries.
+# My [research](/publications/) focuses on ... My research focuses on the interaction between globalization and redistribution, by studying how trade and migration flows respond to international differences in personal taxes and labor market regulations, and by estimating how those flows shape inequalities within and across countries.
 
 
