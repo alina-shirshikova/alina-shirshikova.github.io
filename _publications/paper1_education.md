@@ -1,5 +1,5 @@
 ---
-title: "The women-empowering effect of higher education"
+title: "[The women-empowering effect of higher education](http://alina-shirshikova.github.io/files/paper1_education.pdf)"
 collection: publications
 excerpt: 'We examine the effects of the large-scale construction of public universities in Egypt during the 1960s and 1970s. We found that opening a local university increased the likelihood of obtaining higher education degrees and had long-lasting positive effects on the labour market and marriage outcomes, particularly for women. We give insights on internal migration as a channel and show that migration prior to the university enrollment age decreased while migration after that age increased as an outcome of university construction. Local universities reduced men’s migration for study and women’s migration for early marriage. The paper highlights the importance of increasing access to higher education for positive social and labour outcomes, especially for women.'
 date: 2023-06-01
