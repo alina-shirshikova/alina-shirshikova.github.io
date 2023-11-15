@@ -1,15 +1,30 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+title: "Invite from abroad or train yourself? Access to foreign labour and employment and training behaviour of domestic firms"
+collection: wprogress
+
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+---
+title: "Birthright citizenship, study choice and occupational clustering of immigrant children"
+collection: wprogress
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+---
+
+---
+title: "STEM vs non-STEM degree: Field of study and women's labour market outcomes"
+collection: wprogress
+
+---
+
+---
+title: "Who hires risk-taking employees? The role of worker and employer characteristics in post-probation retention decisions} (with H. Pfeifer and D. Becker)"
+collection: wprogress
+
+---
+
+---
+title: "The effect of high skilled immigration: Evidence from the Russo-Ukrainian war shock"
+collection: wprogress
+
+---
+
