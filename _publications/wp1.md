@@ -1,6 +1,7 @@
 # Publications
 
 ## The women-empowering effect of higher education
+(with A. Elsayed)
 
 Journal of Development Economics,
 [Download paper here](http://alina-shirshikova.github.io/files/paper1_education.pdf)
@@ -12,6 +13,7 @@ Recommended citation: Elsayed, Ahmed and Alina Shirshikova. (2023). “The women
 # Working papers
 
 ## Can skills alleviate ethnic discrimination in hiring? Evidence from the German apprenticeship market
+(with F. Corvers, R. Montizaan, H. Pfeifer and C. Wehner)
 
 [Download paper here](http://alina-shirshikova.github.io/files/paper2_skills.pdf)
 
