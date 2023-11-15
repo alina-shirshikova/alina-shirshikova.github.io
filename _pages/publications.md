@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Publications
 
-### The women-empowering effect of higher education <span style="font-weight:normal">in *Journal of Development Economics* (with A. Elsayed) [[Download paper]](http://alina-shirshikova.github.io/files/paper1_education.pdf)</span>
+### [The women-empowering effect of higher education](http://alina-shirshikova.github.io/files/paper1_education.pdf) <span style="font-weight:normal">in *Journal of Development Economics* (with A. Elsayed)</span>
 
 <details>
 <summary> *Abstract* </summary>
