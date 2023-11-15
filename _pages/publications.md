@@ -1,3 +1,10 @@
+
+---
+layout: archive
+permalink: /publications/
+author_profile: true
+---
+
 # Publications
 
 ## The women-empowering effect of higher education
