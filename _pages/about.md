@@ -13,7 +13,7 @@ I am a PhD candidate in economics at Maastricht University and an ESR at the Res
 My long-standing interest lies in the intersection of labour, education and migration economics. 
 
 My current [research](/publications/) focuses on the impact of borders, geographical mobility and immigration policies on labour markets and
-educational opportunities of individuals. 
+educational opportunities. 
 
 You can contact me at a.shirshikova@maastrichtuniversity.nl and find my [CV](http://alina-shirshikova.github.io/files/Academic_CV.pdf) here.
 
