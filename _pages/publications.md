@@ -17,7 +17,7 @@ We examine the effects of the large-scale construction of public universities in
 
 ## Working papers
 
-### [Can skills alleviate ethnic discrimination in hiring? Evidence from the German apprenticeship market](http://alina-shirshikova.github.io/files/paper1_education.pdf) <span style="font-weight:normal"> - *submitted* (with F. Corvers, R. Montizaan, H. Pfeifer and C. Wehner)</span>
+### [Can skills alleviate ethnic discrimination in hiring? Evidence from the German apprenticeship market](http://alina-shirshikova.github.io/files/paper2_skills.pdf) <span style="font-weight:normal"> - *submitted* (with F. Corvers, R. Montizaan, H. Pfeifer and C. Wehner)</span>
 
 <details>
 <summary>Abstract</summary>
