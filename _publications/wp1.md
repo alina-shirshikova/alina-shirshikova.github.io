@@ -23,7 +23,6 @@ Abstract: One of the major strategies to tackle the issue of labour shortages ac
 # Work in progress
 
 ## Invite from abroad or train yourself? Access to foreign labour and employment and training behaviour of domestic firms 
-(draft coming soon)
 
 ## Birthright citizenship, study choice and occupational clustering of immigrant children
 
