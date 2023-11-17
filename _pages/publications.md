@@ -4,7 +4,6 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
-## Publications
 
 ### [The women-empowering effect of higher education](http://alina-shirshikova.github.io/files/paper1_education.pdf) <span style="font-weight:normal"> - in *Journal of Development Economics* (with A. Elsayed)</span>
 
