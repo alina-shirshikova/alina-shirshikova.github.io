@@ -30,7 +30,7 @@ One of the major strategies to tackle the issue of labour shortages across Europ
 
 ### Birthright citizenship, study choice and occupational clustering of immigrant children
 
-### STEM vs non-STEM degree: Field of study and women's labour market outcomes
+### STEM vs non-STEM degree: Field of study and labour market outcomes
 
 ### Who hires risk-taking employees? The role of worker and employer characteristics in post-probation retention decisions  <span style="font-weight:normal">(with H. Pfeifer and D. Becker)</span>   
 
