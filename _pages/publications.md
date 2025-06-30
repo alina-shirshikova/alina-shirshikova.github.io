@@ -16,7 +16,7 @@ We examine the effects of the large-scale construction of public universities in
 
 ## Working papers
 
-### [Can skills alleviate ethnic discrimination in hiring? Evidence from the German apprenticeship market](http://alina-shirshikova.github.io/files/Shirshikova_Can_skills_alleviate_discrimination_in_hiring.pdf) <span style="font-weight:normal"> - *submitted* (with F. Corvers, R. Montizaan, H. Pfeifer and C. Wehner)</span>
+### [Can skills alleviate ethnic discrimination in hiring? Evidence from the German apprenticeship market](http://alina-shirshikova.github.io/files/Shirshikova_Can_skills_alleviate_discrimination_in_hiring.pdf) <span style="font-weight:normal"> (with F. Corvers, R. Montizaan, H. Pfeifer and C. Wehner)</span>
 
 <details>
 <summary>Abstract</summary>
@@ -25,14 +25,7 @@ One of the major strategies to tackle the issue of labour shortages across Europ
 
 ## Work in progress
 
-### Invite from abroad or train yourself? Access to foreign labour and employment and training behaviour of domestic firms  <span style="font-weight:normal"></span>  
-
-
-### Birthright citizenship, study choice and occupational clustering of immigrant children
-
-### STEM vs non-STEM degree: Field of study and labour market outcomes
-
-### Who hires risk-taking employees? The role of worker and employer characteristics in post-probation retention decisions  <span style="font-weight:normal">(with H. Pfeifer and D. Becker)</span>   
+### Female Employment is Not Always Female Empowerment <span style="font-weight:normal">(with A. Elsayed and A. Osman)</span>   
 
 
 {% if author.googlescholar %}
