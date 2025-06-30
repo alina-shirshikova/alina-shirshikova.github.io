@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alina Shirshikova"
 title_separator          : "-"
 name                     : &name "Alina Shirshikova"
-description              : &description "PhD candidate in Economics"
+description              : &description "Assistant Professor in Economics"
 url                      : https://alina-shirshikova.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alina-shirshikova/alina-shirshikova.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Alina Shirshikova"
   avatar           : "Profile_pic2.png"
-  bio              : "PhD candidate in Economics"
-  location         : "Maastricht, Netherlands"
-  employer         : "Maastricht University"
+  bio              : "Assistant Professor in Economics"
+  location         : "Moscow, Russia"
+  employer         : "HSE University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QhKaSlsAAAAJ&hl=en"
-  email            : "a.shirshikova@maastrichtuniversity.nl"
+  email            : "ashirshikova@hse.ru"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
