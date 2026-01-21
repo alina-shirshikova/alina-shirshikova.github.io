@@ -25,7 +25,7 @@ One of the major strategies to tackle the issue of labour shortages across Europ
 
 ## Work in progress
 
-### Female Employment is Not Always Female Empowerment <span style="font-weight:normal">(with A. Elsayed and A. Osman)</span>   
+### Employment is (Not) Empowerment <span style="font-weight:normal">(with A. Elsayed and A. Osman, updated draft coming soon)</span>   
 
 
 {% if author.googlescholar %}
