@@ -16,7 +16,7 @@ We examine the effects of the large-scale construction of public universities in
 
 ## Working papers
 
-### Employment is (Not) Empowerment <span style="font-weight:normal">(with A. Elsayed and A. Osman, updated draft coming soon)</span>   
+### Employment is (Not) Empowerment <span style="font-weight:normal">(with A. Elsayed and A. Osman) - *updated draft coming soon* </span>   
 
 **Abstract**: We conduct a randomized controlled trial to evaluate the effects of skills-training and mentorship programs for NEET young women in Egypt. Tracking participants over four years, we estimate both short- and long-term causal impacts on employment, income, mobility, subjective well-being, and household decision-making. We find large short-run improvements in employment, hours, and  earnings that persist - though attenuated - at four years. Longer-run gains also emerge for mobility and intra-household decision-making, with no systematic differences between training-only and training-and-mentorship treatment arms. Using causal machine learning methods to explore heterogeneity, we examine who benefits most from the intervention and suggest that, contrary to common belief, greater labor market gains may not consistently translate into stronger social empowerment.
 
